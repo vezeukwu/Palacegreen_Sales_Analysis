@@ -29,7 +29,10 @@ The dashboard allows filtering by Salesperson, Payment Option, Customer Age Grou
 
 ## Recommendations
 Expanding operations, marketing, or promotions in the top-performing states could further boost revenue.
-The company should target the adults and youth age groups with personalized marketing, loyalty programs etc in order to maximize sales and increase profit
+
+The company should target the adults and youth age groups with personalized marketing, loyalty programs etc in order to maximize sales and increase profit.
+
 The underperformance in the Aged and Elder categories shoud be further evaluated to determine if there are opportunities to create age-specific products or offers.
+
 The Profit margin stands at $2.26M from a $22.34M revenue, which is around 10%. The company should negotiate better terms with suppliers to reduce costs, optimize inventory management and reduce any operational inefficiencies 
 that may be driving up costs in order to enhance profitability.
