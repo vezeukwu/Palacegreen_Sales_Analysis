@@ -13,12 +13,19 @@ As a data analyst, my role was to assess the dashboard's metrics, analyze perfor
 
 ## Action
 Evaluated metrics such as revenue, costs, and profits to uncover strengths and areas for improvement.
+
 Assessed profit trends by year and determined that there was a clear rise in profitability from January 2015 through mid-2016, peaking around mid-2016 and a decline thereafter.
+
 Compared performance across states, identifying Lagos leading with profits exceeding $0.40M and Abuja as top-performing locations, while states like Edo and Borno underperformed. 
+
 Analyzed age and gender contributions to profitability, identifying adults generating around $1.20M and youth as the primary profit drivers and noted near-equal profit contributions from male (52%) and female (48%) customers.
+
 Reviewed product categories, noting Phones as the highest revenue generator, with Accessories and Clothing showing potential for optimization.
+
 Suggested actionable steps to improve profitability, including targeted campaigns, pricing adjustments, and seasonal strategy optimization.
+
 The dashboard allows filtering by Salesperson, Payment Option, Customer Age Group, and Customer Type (High, Low, Medium value). This interactive feature enables deeper insights into performance across different dimensions.
+
 
 ## Recommendations
 Expanding operations, marketing, or promotions in the top-performing states could further boost revenue.
